@@ -13,15 +13,7 @@
   - [Prerequisites](#prerequisites)
   - [Install](#install)
   - [Usage](#usage)
-  - [Run tests](#run-tests)
-  - [Deployment](#triangular_flag_on_post-deployment)
-- [👥 Authors](#authors)
-- [🔭 Future Features](#future-features)
-- [🤝 Contributing](#contributing)
-- [⭐️ Show your support](#support)
-- [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
-- [📝 License](#license)
+  
 
 <!-- PROJECT DESCRIPTION -->
 
@@ -91,8 +83,15 @@ To run the project, execute the following command:
 ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+**DEMO**
+
 
 <!-- AUTHORS -->
 
 
 "# Portfolio-1" 
+
+**DEMO**
+
+https://github.com/user-attachments/assets/110bf86c-5d7c-4200-ac07-cbdc4e6f1297
+
